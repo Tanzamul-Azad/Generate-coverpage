@@ -2,10 +2,10 @@
 
 Generate a properly formatted cover page for United International University assignments and reports, then merge it with your main script.
 
-[![Live demo](https://img.shields.io/badge/demo-live-000000?style=flat-square&logo=github&logoColor=white)](https://tanjamul-azad.github.io/Generate-coverpage/)
+[![Live demo](https://img.shields.io/badge/demo-live-000000?style=flat-square&logo=github&logoColor=white)](https://tanzamul-azad.github.io/Generate-coverpage/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-**Try it:** https://tanjamul-azad.github.io/Generate-coverpage/
+**Try it:** https://tanzamul-azad.github.io/Generate-coverpage/
 
 ## Features
 
